@@ -17,7 +17,7 @@ Es util para quienes desean realizar viakes internacionales, comerciantes, quien
 ## 🛠️ Tecnologías
 
 - Java 
-- [framework] IntelliJ IDEA Community Edition
+- Entorno de desarrollo integrado (IDE) IntelliJ IDEA Community Edition
 - API de tasas de cambio
 
 ## 📦 Uso
