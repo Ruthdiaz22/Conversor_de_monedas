@@ -3,12 +3,12 @@
 ## 🚀 Descripción
 
 Este programa es una herramienta de conversión de monedas que permite convertir el valor de una moneda a otra diferente, las monedas son:
-Conversion de Dólar => a Peso argentino
-Conversion de Peso argentino => a Dólar
-Conversion de Dólar => a Real brasileño
-Conversion de Real brasileño => a Dólar
-Conversion de Dólar => a Peso colombiano
-Conversion de Peso colombiano => a Dólar
+- Conversion de Dólar => a Peso argentino
+- Conversion de Peso argentino => a Dólar
+- Conversion de Dólar => a Real brasileño
+- Conversion de Real brasileño => a Dólar
+- Conversion de Dólar => a Peso colombiano
+- Conversion de Peso colombiano => a Dólar
 Esto lo hace de manera rápida y precisa, el programa utiliza datos de tasas de cambio actualizadas para calcular la equivalencia de la moneda.
 
 Es util para quienes desean realizar viakes internacionales, comerciantes, quienes necesitan convertir dinero entre las monedas presentadas.
